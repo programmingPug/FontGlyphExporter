@@ -182,7 +182,7 @@ namespace FontGlyphExporter
             this.Controls.Add(this.lblCounter);
             this.Controls.Add(this.iconFlowPanel);
             this.Name = "MainForm";
-            this.Text = "Font Awesome Icon Exporter";
+            this.Text = "Font Glyph Exporter";
             this.pnlSizes.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
